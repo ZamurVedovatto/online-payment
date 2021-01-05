@@ -1,5 +1,8 @@
-import { connect } from 'mongoose';
+const mongoose = require ('mongoose');
 
-connect('mongodb+srv://admin:admin@cluster0.vazzu.mongodb.net/online_payment?retryWrites=true&w=majority', {useNewUrlParser:true} );
+mongoose.connect(
+  'mongodb+srv://admin:admin@cluster0.vazzu.mongodb.net/online_payment?retryWrites=true&w=majority', 
+  { useUnifiedTopology: true }
+);
 
-export default {mongoose}
+module.exports = {mongoose}
