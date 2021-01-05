@@ -98,15 +98,15 @@ Project Link: [https://github.com/ZamurVedovatto/online-payment](https://github.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ZamurVedovatto/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/ZamurVedovatto/repo/graphs/contributors
+[contributors-url]: https://github.com/ZamurVedovatto/online-payment/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ZamurVedovatto/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/ZamurVedovatto/repo/network/members
+[forks-url]: https://github.com/ZamurVedovatto/online-payment/network/members
 [stars-shield]: https://img.shields.io/github/stars/ZamurVedovatto/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/ZamurVedovatto/repo/stargazers
+[stars-url]: https://github.com/ZamurVedovatto/online-payment/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ZamurVedovatto/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/ZamurVedovatto/repo/issues
+[issues-url]: https://github.com/ZamurVedovatto/online-payment/issues
 [license-shield]: https://img.shields.io/github/license/ZamurVedovatto/repo.svg?style=for-the-badge
-[license-url]: https://github.com/ZamurVedovatto/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/ZamurVedovatto/online-payment/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/zamur/
 [product-screenshot]: images/screenshot.png
